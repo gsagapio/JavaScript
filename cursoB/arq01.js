@@ -1,3 +1,3 @@
-let nome = prompt("Digite o seu nome: ")
+let nome = 'Programador em treinamento'
 
 console.log("Hello, World!", nome)

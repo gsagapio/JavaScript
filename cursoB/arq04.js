@@ -1,6 +1,6 @@
-const notaUm = parseInt(prompt("Digite a primeira nota: "))
-const notaDois = parseInt(prompt("Digite a segunda nota: "))
-const notaTres = parseInt(prompt("Digite a terceira nota: "))
+const notaUm = 8
+const notaDois = 9
+const notaTres = 10
 
 const media = (notaUm + notaDois + notaTres) / 3
 
