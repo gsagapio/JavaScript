@@ -4,4 +4,4 @@ let mult = 3 * 4
 let divi = 3 / 4
 let rest = 3 % 4
 
-console.log(soma, subt, mult, divi, rest)
+console.log(soma, subt, mult, divi, rest);
