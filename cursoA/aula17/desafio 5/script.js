@@ -1,7 +1,7 @@
 // Selecionando elementos do DOM
 let numInput = document.querySelector('#fnum');
 let listaSelect = document.querySelector('#flista');
-let resDiv = document.querySelector('#res');
+let resDiv = document.querySelector('#res'); 
 let valores = [];
 
 // Adicionando evento de clique ao botão Adicionar
